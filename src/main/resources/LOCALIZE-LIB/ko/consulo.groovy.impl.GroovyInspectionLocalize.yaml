@@ -1,0 +1,6 @@
+create.directory.command:
+    text: 디렉토리 생성
+destination.package:
+    text: '대상 패키지(&P):'
+dialog.create.class.package.chooser.title:
+    text: 대상 패키지 선택

@@ -1,0 +1,16 @@
+action.text.select.all:
+    text: 모두 선택
+action.text.unselect.all:
+    text: 모두 선택 해제
+button.add:
+    text: 추가(&A)...
+button.delete:
+    text: 삭제
+button.edit:
+    text: 편집(&E)...
+button.help:
+    text: 도움말(&H)
+button.new:
+    text: 새로 작성(&N)...
+label.prefix:
+    text: 접두사

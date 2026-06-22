@@ -1,0 +1,30 @@
+error.report.to.jetbrains.action:
+    text: JetBrains에 보고(&R)
+title.new.from.template:
+    text: 새 {0}
+title.cannot.create.file:
+    text: 파일을 만들 수 없음
+command.create.file.from.template:
+    text: 템플릿에서 파일 만들기
+progress.deleting:
+    text: 삭제 중
+error.please.enter.a.file.name:
+    text: 파일 이름을 지정하세요
+error.unable.to.parse.template.message:
+    text: "\"{0}\" 템플릿을 파싱할 수 없습니다\n오류 메시지: {1}"
+tab.chooser.project:
+    text: 프로젝트
+tab.chooser.search.by.name:
+    text: 이름으로 검색
+choose.test.method.dialog.title:
+    text: 테스트 메서드 선택
+choose.test.class.dialog.title:
+    text: 테스트 클래스 선택
+set.class.name.message:
+    text: 클래스 이름을 먼저 설정하십시오
+cannot.browse.method.dialog.title:
+    text: 메서드를 찾아볼 수 없습니다
+class.does.not.exists.error.message:
+    text: '{0} 클래스가 존재하지 않습니다'
+action.rerun:
+    text: 다시 실행

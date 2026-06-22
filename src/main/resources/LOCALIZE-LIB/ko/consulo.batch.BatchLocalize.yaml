@@ -1,0 +1,4 @@
+runcfg.labels.script_parameters:
+    text: '매개변수(&P):'
+runcfg.labels.working_directory:
+    text: '작업 디렉토리(&W):'

@@ -1,0 +1,72 @@
+GNAME.function:
+    text: 함수
+GNAME.item:
+    text: 항목
+GNAME.var:
+    text: 변수
+INSP.NAME.none.function.assignment:
+    text: Assigning function call that doesn't return anything (없음)
+INSP.NAME.unreachable.code:
+    text: 사용할 수 없는 코드
+QFIX.NAME.change.signature:
+    text: 서명 변경
+QFIX.NAME.remove.assignment:
+    text: 변수 지정 제거
+QFIX.auto.import.family:
+    text: 가져오기
+formatter.braces:
+    text: 중괄호
+formatter.imports.panel.title:
+    text: 가져오기
+refactoring.change.signature.dialog.default.value.label:
+    text: '기본값:'
+refactoring.change.signature.dialog.name.label:
+    text: '이름:'
+refactoring.introduce.constant.dialog.title:
+    text: 상수 추출
+refactoring.will.not.be.accessible:
+    text: 구성원
+remote.debug.info:
+    text: 정보(I)
+remote.debug.port:
+    text: '포트:'
+remote.debug.settings:
+    text: 설정
+runcfg.labels.script_parameters:
+    text: '매개변수(&P):'
+runcfg.labels.working_directory:
+    text: '작업 디렉토리(&W):'
+runcfg.pytest.keywords:
+    text: '키워드(&K):'
+runcfg.pytest.parameters:
+    text: '옵션(&O):'
+runcfg.pytest.target:
+    text: '대상(&T):'
+runcfg.unittest.dlg.class_label:
+    text: '클래스:'
+runcfg.unittest.dlg.folder_path:
+    text: '폴더:'
+runcfg.unittest.dlg.function_label:
+    text: '함수:'
+runcfg.unittest.dlg.keywords:
+    text: '키워드:'
+runcfg.unittest.dlg.messages.working.dir:
+    text: '작업 디렉토리:'
+runcfg.unittest.dlg.method_label:
+    text: '메소드:'
+runcfg.unittest.dlg.pattern:
+    text: 패턴
+runcfg.unittest.dlg.test_class_title:
+    text: 클래스
+runcfg.unittest.dlg.test_function_title:
+    text: 함수
+runcfg.unittest.dlg.test_method_title:
+    text: 메소드
+runcfg.unittest.dlg.test_type_title:
+    text: '테스트:'
+sdk.create.venv.dialog.label.location:
+    text: '위치:'
+sdk.create.venv.dialog.label.name:
+    text: '이름:'
+surround.with.return.template:
+    text: 리턴

@@ -1,0 +1,10 @@
+action.JsonCopyPointer.text:
+    text: JSON 포인터 복사
+json.array:
+    text: 배열
+json.schema.conflicting.mappings:
+    text: '경고: conflicting mappings. <a href="#">Show details</a>'
+json.schema.file.not.found:
+    text: 파일을 찾을 수 없음
+syntax.error.missing.closing.quote:
+    text: 닫는 따옴표 누락
