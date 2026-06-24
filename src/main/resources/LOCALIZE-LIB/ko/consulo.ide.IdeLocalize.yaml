@@ -213,13 +213,13 @@ action.structureview.show.non.public:
 action.sync.completed.successfully:
     text: 파일 동기화가 성공적으로 완료되었습니다.
 action.synchronize.file:
-    text: '''''{0}'''' 동기화'
+    text: "''{0}'' 동기화"
 action.synchronize.selected.files:
     text: 선택한 파일 동기화
 action.text.remove.0:
     text: '{0} 제거'
 action.text.remove.abbreviation.0:
-    text: 약어 ''{0}'' 제거
+    text: "약어 ''{0}'' 제거"
 action.todo.edit.filters:
     text: 필터 편집
 action.todo.show.all:
@@ -253,7 +253,7 @@ available.packages.dialog.title:
 browsers.settings:
     text: 웹 브라우저 및 미리보기
 bundled.jre.version.message:
-    text: IDE에 더 적합한 번들 Java 런타임으로 전환하는 것이 좋습니다   (현재 Java 런타임은 ''{2}''의 {1} {0}입니다).
+    text: "IDE에 더 적합한 번들 Java 런타임으로 전환하는 것이 좋습니다   (현재 Java 런타임은 ''{2}''의 {1} {0}입니다)."
 button.add:
     text: 추가(&A)...
 button.add.d:
@@ -331,7 +331,7 @@ button.wizard.previous:
 button.yes:
     text: 예(_Y)
 change.encoding.command.name:
-    text: '''''{0}''''에 대한 인코딩 변경'
+    text: "''{0}''에 대한 인코딩 변경"
 checkbox.confirm.application.exit:
     text: IDE를 종료하기 전에 확인
 checkbox.copy.javadoc:
@@ -429,9 +429,9 @@ command.renaming.module:
 command.select.all:
     text: 모두 선택
 conversion.dialog.text.1:
-    text: '''''{0}'''' 프로젝트의 형식이 오래되어 변환됩니다.   이전 버전의 {1}에서는 프로젝트를 열지 못할 수 있습니다.'
+    text: "''{0}'' 프로젝트의 형식이 오래되어 변환됩니다.   이전 버전의 {1}에서는 프로젝트를 열지 못할 수 있습니다."
 conversion.dialog.text.2:
-    text: '<b> </b><a href="details">세부 정보...</a><br/><br/>이전 버전의 프로젝트 파일은 다음 위치에 저장됩니다: ''''{0}'''''
+    text: "<b> </b><a href=\"details\">세부 정보...</a><br/><br/>이전 버전의 프로젝트 파일은 다음 위치에 저장됩니다: ''{0}''"
 copy.reference:
     text: 참조 복사(&Y)
 copy.references:
@@ -453,7 +453,7 @@ dialog.directory.for.downloaded.files.title:
 dialog.message.cannot.save.the.file.0:
     text: '{0} 파일을 저장할 수 없습니다'
 dialog.message.incompatible.encoding:
-    text: 선택한 인코딩(''{0}'')으로 인해 ''{1}''의 내용이 변경될 수 있습니다.<br>어떻게 하시겠습니까?<br>  1. 새 인코딩 ''{0}''으로 디스크에서 파일을 <b>다시 로드</b>하고 에디터 내용을 덮어씁니다.<br>  2. 텍스트를 <b>변환</b>하고 새 인코딩으로 파일을 덮어씁니다.
+    text: "선택한 인코딩(''{0}'')으로 인해 ''{1}''의 내용이 변경될 수 있습니다.<br>어떻게 하시겠습니까?<br>  1. 새 인코딩 ''{0}''으로 디스크에서 파일을 <b>다시 로드</b>하고 에디터 내용을 덮어씁니다.<br>  2. 텍스트를 <b>변환</b>하고 새 인코딩으로 파일을 덮어씁니다."
 dialog.title.abbreviation:
     text: 약어
 dialog.title.clear.read.only.file.status:
@@ -467,17 +467,18 @@ dialog.title.convert.project:
 dialog.title.error.writing.file:
     text: 파일 쓰기 오류
 dialog.title.file.0.can.t.be.reloaded:
-    text: '''''{0}'''' 파일은 ''''{1}'''' 인코딩으로 다시 로드할 수 없습니다.{2}'
+    text: "''{0}'' 파일은 ''{1}'' 인코딩으로 다시 로드할 수 없습니다.{2}"
 dialog.title.file.0.most.likely.isn.t.stored:
-    text: '''''{0}'''' 파일은 ''''{1}'''' 인코딩으로 저장되지 않았을 가능성이 큽니다.{2}'
+    text: "''{0}'' 파일은 ''{1}'' 인코딩으로 저장되지 않았을 가능성이 큽니다.{2}"
 dialog.title.go.to.line.column:
     text: 줄:열로 이동
 dialog.title.unable.to.save:
     text: 저장할 수 없음
 diff.dialog.title:
-    text: '''''{0}'''' 및 ''''{1}'''' 간의 Diff'
+    text: "''{0}'' 및 ''{1}'' 간의 Diff"
 directory.project.file.directory:
-    text: "{0} 디렉터리\n"
+    text: |
+        {0} 디렉터리
 display.balloon.notifications:
     text: 풍선 알림 표시
 display.name.firefox.settings:
@@ -525,13 +526,13 @@ empty.text.recent.files:
 empty.text.search.everywhere:
     text: 전체 검색
 encoding.do.not.convert.message:
-    text: '''''{0}''''(으)로 변환하지 마세요.'
+    text: "''{0}''(으)로 변환하지 마세요."
 encoding.name.system.default:
     text: '<시스템 기본값: {0}>'
 encoding.not.available:
     text: 해당 없음
 encoding.unsupported.characters.message:
-    text: '''''{0}'''' 인코딩은 텍스트의 일부 문자를 지원하지 않습니다.'
+    text: "''{0}'' 인코딩은 텍스트의 일부 문자를 지원하지 않습니다."
 encodings.dialog.caption:
     text: 파일 또는 디렉터리 경로를 추가하고 {0}에서 사용할 인코딩을 선택하세요.<br>파일 및 디렉터리는 상위 디렉터리 또는 프로젝트 인코딩에서 인코딩을 상속합니다.<br>JSP, HTML 및 XML 파일의 내장 파일 인코딩은 이 설정을 재정의합니다.
 error.0.browser.path.not.specified:
@@ -551,13 +552,13 @@ error.connection.failed.redirects:
 error.failed.to.create.directory:
     text: '"{0}" 디렉터리를 만들지 못했습니다'
 error.favorites.list.already.exists:
-    text: '''''{0}'''' 즐겨찾기 목록이 이미 존재합니다'
+    text: "''{0}'' 즐겨찾기 목록이 이미 존재합니다"
 error.file.does.not.exist:
     text: '{0} 파일이 존재하지 않습니다.'
 error.file.download.failed:
     text: "''{0}''을(를) 다운로드하지 못했습니다:\n{1}"
 error.file.not.found.message:
-    text: '''''{0}'''' 파일을 찾을 수 없습니다'
+    text: "''{0}'' 파일을 찾을 수 없습니다"
 error.files.of.this.type.cannot.be.opened:
     text: 이 타입의 파일은 {0}에서 열 수 없습니다
 error.invalid.template.file.name.or.extension:
@@ -567,13 +568,15 @@ error.loading.package.list:
 error.malformed.url:
     text: '잘못된 URL: {0}'
 error.message.cannot.make.files.writable:
-    text: "다음 파일의 잠금을 해제할 수 없습니다:\n{0}"
+    text: |-
+        다음 파일의 잠금을 해제할 수 없습니다:
+        {0}
 error.message.cannot.modify.file.0:
-    text: '''''{0}'''' 파일을 수정할 수 없습니다'
+    text: "''{0}'' 파일을 수정할 수 없습니다"
 error.message.unable.to.create.file:
-    text: '''''{0}'''' 파일을 만들 수 없습니다'
+    text: "''{0}'' 파일을 만들 수 없습니다"
 error.module.already.exists:
-    text: '''''{0}''''이라는 이름의 모듈이 이미 존재합니다'
+    text: "''{0}''이라는 이름의 모듈이 이미 존재합니다"
 error.name.cannot.be.empty:
     text: 이름은 비워 둘 수 없습니다
 error.name.should.be.specified:
@@ -593,21 +596,31 @@ error.project.file.does.not.exist:
 error.reading.settings.file:
     text: "파일 {0}을(를) 읽는 중 오류가 발생했습니다.\n''파일 | IDE 설정 관리 | 설정 내보내기...'' 기능으로 생성되었는지 확인하세요.\n\n{1}"
 error.reading.settings.file.2:
-    text: "파일 {0}을(를) 읽는 중 오류가 발생했습니다.\n\n{1}"
+    text: |-
+        파일 {0}을(를) 읽는 중 오류가 발생했습니다.
+
+        {1}
 error.saving.statistics:
     text: '시스템 정보를 저장하는 중 오류 발생: {0}'
 error.text.file.already.exists:
-    text: "{0} 파일이 이미 존재합니다.\n덮어쓰시겠습니까, 아니면 덧붙이시겠습니까?"
+    text: |-
+        {0} 파일이 이미 존재합니다.
+        덮어쓰시겠습니까, 아니면 덧붙이시겠습니까?
 error.tips.not.found:
     text: 팁을 찾을 수 없습니다. {0}을(를) 올바르게 설치했는지 확인하세요.
 error.unable.to.parse.template.message:
-    text: "\"{0}\" 템플릿을 파싱할 수 없습니다\n오류 메시지: {1}"
+    text: |-
+        "{0}" 템플릿을 파싱할 수 없습니다
+        오류 메시지: {1}
 error.unable.to.read.tip.of.the.day:
     text: <html><body>오늘의 팁({0})을 읽을 수 없습니다. {1}이(가) 올바르게 설치되었는지 확인하세요.</body></html>
 error.updating.package.list:
     text: '패키지 목록 업데이트 오류: {0}'
 error.writing.settings:
-    text: "설정 기록 중 오류가 발생했습니다.\n\n{0}"
+    text: |-
+        설정 기록 중 오류가 발생했습니다.
+
+        {0}
 error.writing.to.file:
     text: '파일에 쓰는 중 오류 발생: {0}'
 errortree.error:
@@ -621,7 +634,7 @@ errortree.prefix.line:
 errortree.warning:
     text: '경고:'
 failed.to.install.package.dialog.title:
-    text: '''''{0}'''' 설치 실패'
+    text: "''{0}'' 설치 실패"
 failed.to.install.packages.dialog.title:
     text: 패키지 설치 실패
 favorites.list.unnamed:
@@ -667,7 +680,7 @@ finished.with.exit.code.text.message:
 go.to.class.action.description:
     text: 이름으로 {0}에 빠르게 탐색
 go.to.class.dumb.mode.message:
-    text: 프로젝트 분석 중에는 ''{0}(으)로 이동'' 액션을 사용할 수 없습니다. 대신 ''파일로 이동''을 사용하세요
+    text: "프로젝트 분석 중에는 ''{0}(으)로 이동'' 액션을 사용할 수 없습니다. 대신 ''파일로 이동''을 사용하세요"
 go.to.class.kind.text:
     text: 클래스
 go.to.file.toolwindow.title:
@@ -741,7 +754,7 @@ idea.intellij.look.and.feel:
 incompatible.encoding.dialog.title:
     text: '호환되지 않는 인코딩: {0}'
 install.package.failure:
-    text: '''''{0}'''' 패키지를 설치하는 중 오류가 발생했습니다. <a href="xxx">세부 정보...</a>'
+    text: "''{0}'' 패키지를 설치하는 중 오류가 발생했습니다. <a href=\"xxx\">세부 정보...</a>"
 label.appearance.caret.blinking:
     text: '모양: 캐럿 깜빡임'
 label.appearance.show.inner.whitespaces:
@@ -775,7 +788,7 @@ label.macro.preview:
 label.macros:
     text: 매크로
 label.missed.libraries.text:
-    text: 모듈 종속성 목록에서 ''{0}'' 라이브러리를 찾을 수 없습니다
+    text: "모듈 종속성 목록에서 ''{0}'' 라이브러리를 찾을 수 없습니다"
 label.name:
     text: '이름(&N):'
 label.no.actions.found:
@@ -809,7 +822,7 @@ label.transparency.ratio:
 listbox.customfiletype.keywords:
     text: 키워드
 loading.in.progress:
-    text: '<html><body style=''text-align: center;padding-top:20px;''>로드 중...</body></html>'
+    text: "<html><body style='text-align: center;padding-top:20px;'>로드 중...</body></html>"
 local.scopes.node.text:
     text: 로컬 범위
 low.disk.space.message:
@@ -883,9 +896,9 @@ manage.repositories.dialog.title:
 maven.repository.presentable.name:
     text: Maven 저장소
 message.macro.exists:
-    text: 매크로 ''{0}''이(가) 이미 존재합니다. 덮어쓰시겠습니까?
+    text: "매크로 ''{0}''이(가) 이미 존재합니다. 덮어쓰시겠습니까?"
 message.module:
-    text: '''''{0}'''' 모듈'
+    text: "''{0}'' 모듈"
 message.module.file.has.an.older.format.do.you.want.to.convert.it:
     text: 모듈 파일의 형식이 오래되었습니다. 변환하시겠습니까?
 message.modules:
@@ -897,13 +910,15 @@ message.no.targets.available:
 message.occurrence.N.of.M:
     text: 발생 {0} / {1}
 message.open.file.is.project:
-    text: "{0}은(는) 프로젝트 파일입니다.\n프로젝트를 여시겠습니까?"
+    text: |-
+        {0}은(는) 프로젝트 파일입니다.
+        프로젝트를 여시겠습니까?
 message.path.to.fqn.has.been.copied:
-    text: '''''{0}''''이(가) 복사되었습니다.'
+    text: "''{0}''이(가) 복사되었습니다."
 message.please.select.element.for.javadoc:
     text: 문서를 볼 요소를 선택하세요
 message.reference.to.fqn.has.been.copied:
-    text: '''''{0}''''에 대한 참조가 복사되었습니다.'
+    text: "''{0}''에 대한 참조가 복사되었습니다."
 message.settings.exported.successfully:
     text: "설정이 성공적으로 내보내졌습니다.\n'파일 | IDE 설정 관리 | 설정 가져오기...'를 사용하여 설정을 가져올 수 있습니다."
 message.settings.imported.successfully:
@@ -911,7 +926,7 @@ message.settings.imported.successfully:
 message.text.unlock.read.only.files:
     text: <html><body>다음 파일은 읽기 전용입니다. {0}에서 파일의 잠금을 해제합니다.<br>{1}</body></html>
 message.your.module.was.successfully.converted.br.old.version.was.saved.to.0:
-    text: <html><body>모듈이 성공적으로 변환되었습니다. <br>  이전 버전은 ''{0}''에 저장되었습니다.</body></html>
+    text: "<html><body>모듈이 성공적으로 변환되었습니다. <br>  이전 버전은 ''{0}''에 저장되었습니다.</body></html>"
 no.charset.set.reason.charset.auto.detected.by.bom:
     text: BOM에 의해 문자 집합이 자동 감지됨
 no.charset.set.reason.charset.auto.detected.from.content:
@@ -949,11 +964,11 @@ open.url.in.browser.tooltip:
 option.hide.tool.window.bars:
     text: 도구 창 막대 숨기기
 package.0.installed.successfully:
-    text: '''''{0}'''' 패키지가 성공적으로 설치되었습니다'
+    text: "''{0}'' 패키지가 성공적으로 설치되었습니다"
 package.installed.successfully:
     text: 패키지가 성공적으로 설치되었습니다
 package.successfully.uninstalled:
-    text: '''''{0}'''' 패키지가 성공적으로 제거되었습니다'
+    text: "''{0}'' 패키지가 성공적으로 제거되었습니다"
 package.successfully.upgraded:
     text: '{0} 패키지가 성공적으로 업그레이드되었습니다'
 packages.settings.latest.version:
@@ -1021,7 +1036,9 @@ prompt.choose.export.settings.file.path:
 prompt.choose.import.file.path:
     text: 가져올 설정 파일 또는 파일이 위치한 디렉터리를 선택하세요.
 prompt.create.non.existing.package:
-    text: "{0} 패키지가 존재하지 않습니다.\n만드시겠습니까?"
+    text: |-
+        {0} 패키지가 존재하지 않습니다.
+        만드시겠습니까?
 prompt.delete.and:
     text: 및
 prompt.delete.directory:
@@ -1071,21 +1088,25 @@ prompt.gotofile.enter.file.name:
 prompt.gotosymbol.enter.symbol.name:
     text: '기호 이름 입력:'
 prompt.input.favorites.list.new.name:
-    text: '''''{0}'''' 즐겨찾기 목록의 새 이름:'
+    text: "''{0}'' 즐겨찾기 목록의 새 이름:"
 prompt.input.new.favorites.list.name:
     text: 새 즐겨찾기 목록의 이름을 입력하세요
 prompt.new.project.file.name:
     text: 새 {0} {1}을(를) 만들 파일 이름을 입력하세요
 prompt.overwrite.settings.file:
-    text: '''''{0}''''을(를) 덮어쓰시겠습니까?'
+    text: "''{0}''을(를) 덮어쓰시겠습니까?"
 prompt.please.check.all.components.to.export:
     text: '내보낼 설정을 확인하세요:'
 prompt.reset.to.original.template:
     text: 원본 템플릿으로 재설정하시겠습니까?
 prompt.specify.module.group.name:
-    text: "{0}이(가) 표시될 그룹 이름을 지정하세요.\n\n"
+    text: |+
+        {0}이(가) 표시될 그룹 이름을 지정하세요.
+
 prompt.specify.name.of.module.subgroup:
-    text: "{1}이(가) 표시될 {0} 하위 그룹의 이름을 지정하세요.\n\n"
+    text: |+
+        {1}이(가) 표시될 {0} 하위 그룹의 이름을 지정하세요.
+
 quick.lists.presentable.name:
     text: 빠른 목록
 radio.process.close.ask:
@@ -1123,7 +1144,9 @@ run.anything.ad.run.with.debug:
 run.anything.console.error.title:
     text: 명령을 실행할 수 없음
 run.anything.console.process.finished:
-    text: "\n프로세스가 종료 코드 {0}(으)로 완료되었습니다."
+    text: |4-
+
+        프로세스가 종료 코드 {0}(으)로 완료되었습니다.
 run.anything.context.browse.directory:
     text: 디렉터리 찾아보기…
 run.anything.context.project:
@@ -1153,7 +1176,7 @@ run.anything.main.list.empty.primary.text:
 run.anything.main.list.empty.secondary.text:
     text: 모든 명령을 보려면 "?"를 입력하세요
 run.anything.notification.warning.content:
-    text: '''''{0}'''' 명령을 실행하지 못했습니다.'
+    text: "''{0}'' 명령을 실행하지 못했습니다."
 run.anything.notification.warning.title:
     text: 명령 실행 실패
 run.anything.recent.group.title:
@@ -1173,11 +1196,11 @@ run.anything.run.in.context.title:
 run.configuration.error.executable.not.specified:
     text: 실행 파일이 지정되지 않았습니다
 run.configuration.error.working.directory.does.not.exist:
-    text: 프로세스를 시작할 수 없습니다. 작업 디렉터리 ''{0}''이(가) 존재하지 않습니다.
+    text: "프로세스를 시작할 수 없습니다. 작업 디렉터리 ''{0}''이(가) 존재하지 않습니다."
 run.configuration.error.working.directory.not.directory:
-    text: 프로세스를 시작할 수 없습니다. 작업 디렉터리 ''{0}''이(가) 디렉터리가 아닙니다.
+    text: "프로세스를 시작할 수 없습니다. 작업 디렉터리 ''{0}''이(가) 디렉터리가 아닙니다."
 scope.banner.text:
-    text: '''''{0}'''' 범위'
+    text: "''{0}'' 범위"
 scope.class.hierarchy:
     text: 클래스 계층 구조
 scope.current.file:
@@ -1239,15 +1262,15 @@ searcheverywhere.allelements.tab.name:
 searcheverywhere.commands.tab.name:
     text: 명령
 searcheverywhere.found.matches.title:
-    text: '[{1}]의 ''''{0}''''에 대한 일치 항목'
+    text: "[{1}]의 ''{0}''에 대한 일치 항목"
 searcheverywhere.found.targets.title:
     text: 정렬되지 않은 결과
 searcheverywhere.history.shortcuts.hint:
     text: 검색 기록을 탐색하려면 {0} 또는 {1} 키를 누르세요
 searcheverywhere.indexing.incomplete.results:
-    text: '''''{0}'''' 검색 결과가 불완전할 수 있습니다. 프로젝트 분석 중…'
+    text: "''{0}'' 검색 결과가 불완전할 수 있습니다. 프로젝트 분석 중…"
 searcheverywhere.indexing.mode.not.supported:
-    text: '''''{0}''''에서의 검색은 프로젝트 분석이 완료된 후 사용할 수 있습니다'
+    text: "''{0}''에서의 검색은 프로젝트 분석이 완료된 후 사용할 수 있습니다"
 searcheverywhere.nothing.found.for.all:
     text: 아무 것도 찾지 못했습니다.
 searcheverywhere.nothing.found.for.all.anywhere:
@@ -1257,9 +1280,9 @@ searcheverywhere.nothing.found.for.contributor.anywhere:
 searcheverywhere.run.configs.tab.name:
     text: 실행 구성
 searcheverywhere.runconfigurations.command.debug.description:
-    text: '''디버그'' 모드에서 실행 구성 시작'
+    text: "'디버그' 모드에서 실행 구성 시작"
 searcheverywhere.runconfigurations.command.run.description:
-    text: '''실행'' 모드에서 실행 구성 시작'
+    text: "'실행' 모드에서 실행 구성 시작"
 searcheverywhere.textfield.hint:
     text: 명령을 보려면 {0}을(를) 입력하세요
 select.in.commander:
@@ -1479,6 +1502,12 @@ upgrade.packages.failed:
 upgrade.packages.failed.dialog.title:
     text: 패키지 업그레이드 실패
 warning.delete.all.files.and.subdirectories:
-    text: "\n\"{0}\"의 모든 파일 및 하위 디렉터리가 삭제됩니다.\n  이 작업은 완전히 실행 취소하지 못할 수도 있습니다!"
+    text: |4-
+
+        "{0}"의 모든 파일 및 하위 디렉터리가 삭제됩니다.
+          이 작업은 완전히 실행 취소하지 못할 수도 있습니다!
 warning.delete.all.files.and.subdirectories.in.the.selected.directory:
-    text: "\n선택한 디렉터리의 모든 파일 및 하위 디렉터리가 삭제됩니다.\n  이 작업은 완전히 실행 취소하지 못할 수도 있습니다!"
+    text: |4-
+
+        선택한 디렉터리의 모든 파일 및 하위 디렉터리가 삭제됩니다.
+          이 작업은 완전히 실행 취소하지 못할 수도 있습니다!

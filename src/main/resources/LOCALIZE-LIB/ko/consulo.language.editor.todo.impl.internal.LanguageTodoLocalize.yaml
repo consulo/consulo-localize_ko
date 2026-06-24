@@ -57,7 +57,7 @@ node.todo.group:
 node.todo.items:
     text: '{0} {0, choice, 0#항목|1#항목|2#항목}'
 node.todo.more.items:
-    text: ...더 보기…
+    text: '...더 보기…'
 node.todo.summary:
     text: '{1} {1,choice,0#파일|1#파일|2#파일}에서 {0} TODO {0,choice,0#항목|1#항목|2#항목} 찾음'
 text.todo.no.filters:

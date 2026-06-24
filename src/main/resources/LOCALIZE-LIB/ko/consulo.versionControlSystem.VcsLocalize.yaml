@@ -131,7 +131,7 @@ multiple.file.merge.column.type:
 multiple.file.merge.merge:
     text: 합치기(&M)...
 multiple.file.merge.type.binary:
-    text: '2진'
+    text: 2진
 multiple.file.merge.type.text:
     text: 텍스트
 new.changelist.make.active.checkbox:
