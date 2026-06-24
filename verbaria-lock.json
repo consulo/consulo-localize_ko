@@ -3,8 +3,21 @@
   "server" : "https://i.verbaria.org/",
   "project" : "consulo**",
   "projectVersion" : "master",
-  "generatedAt" : "2026-06-23T20:54:32.522893616Z",
+  "generatedAt" : "2026-06-24T15:12:06.561989936Z",
   "documents" : {
+    "consulo-apache-ant/consulo.apache.ant.impl.ApacheAntImplLocalize" : {
+      "source" : {
+        "revision" : 1
+      },
+      "translations" : {
+        "ko" : {
+          "sig" : "e1cf8078dd05232ad4f75e5f886b5443",
+          "state" : "Approved",
+          "total" : 4,
+          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
+        }
+      }
+    },
     "consulo-csharp/consulo.csharp.impl.CSharpErrorLocalize" : {
       "source" : {
         "revision" : 1
