@@ -109,9 +109,9 @@ progress.download.plugins:
 progress.downloading.list.of.plugins:
     text: '{0}에서 플러그인 목록 다운로드 중'
 progress.downloading.plugin:
-    text: '''''{0}'''' 플러그인 다운로드 중'
+    text: "''{0}'' 플러그인 다운로드 중"
 prompt.uninstall.plugin:
-    text: '''''{0}'''' 플러그인{1, choice, 0#|1# 업데이트}을(를) 제거하시겠습니까?'
+    text: "''{0}'' 플러그인{1, choice, 0#|1# 업데이트}을(를) 제거하시겠습니까?"
 prompt.uninstall.several.plugins:
     text: 이 {0}개의 플러그인을 제거하시겠습니까?
 title.plugin.uninstall:

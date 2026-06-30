@@ -5,7 +5,7 @@ GNAME.item:
 GNAME.var:
     text: 변수
 INSP.NAME.none.function.assignment:
-    text: Assigning function call that doesn't return anything (없음)
+    text: "Assigning function call that doesn't return anything (없음)"
 INSP.NAME.unreachable.code:
     text: 사용할 수 없는 코드
 QFIX.NAME.change.signature:

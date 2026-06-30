@@ -63,13 +63,13 @@ hector.syntax.slider.label:
 inlay.hints.declarative.disable.action.no.provider.text:
     text: 인레이 힌트 비활성화
 inlay.hints.declarative.disable.action.text:
-    text: '''''{0}'''' 인레이 힌트 비활성화'
+    text: "''{0}'' 인레이 힌트 비활성화"
 inlay.hints.declarative.disable.option.action.text:
-    text: '''''{1}'''' 인레이 힌트에 대한 ''''{0}'''' 옵션 비활성화'
+    text: "''{1}'' 인레이 힌트에 대한 ''{0}'' 옵션 비활성화"
 inlay.hints.declarative.enable.action.text:
-    text: '''''{0}'''' 인레이 힌트 활성화'
+    text: "''{0}'' 인레이 힌트 활성화"
 inlay.hints.declarative.enable.option.action.text:
-    text: '''''{1}'''' 인레이 힌트에 대한 ''''{0}'''' 옵션 활성화'
+    text: "''{1}'' 인레이 힌트에 대한 ''{0}'' 옵션 활성화"
 iw.compact.view:
     text: 압축 보기
 iw.disable.powersave:

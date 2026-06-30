@@ -7,9 +7,9 @@ errortree.prefix.line:
 integer.field.value.expected:
     text: 값이 필요합니다.
 integer.field.value.not.a.number:
-    text: 값 ''{0}''은(는) 정수가 아닙니다.
+    text: "값 ''{0}''은(는) 정수가 아닙니다."
 integer.field.value.out.of.range:
-    text: 값 ''{0}''이(가) 범위 {1}..{2}를 벗어났습니다.
+    text: "값 ''{0}''이(가) 범위 {1}..{2}를 벗어났습니다."
 message.files:
     text: '{0,choice, 0#파일|1#파일|2#파일}'
 message.matches:

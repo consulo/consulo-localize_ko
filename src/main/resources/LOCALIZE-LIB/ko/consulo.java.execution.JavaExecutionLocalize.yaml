@@ -11,8 +11,8 @@ application.configuration.shorten.command.line.label:
 application.configuration.use.classpath.and.jdk.of.module.label:
     text: '모듈의 클래스패스 사용(_O):'
 jar.application.configuration.description:
-    text: '''java-jar'' 명령을 사용하여 JAR 파일을 실행하는 구성'
+    text: "'java-jar' 명령을 사용하여 JAR 파일을 실행하는 구성"
 jar.application.configuration.name:
     text: JAR 애플리케이션
 jre.path.is.not.valid.jre.home.error.message:
-    text: '''''{0}''''은(는) 유효한 JRE 홈이 아닙니다'
+    text: "''{0}''은(는) 유효한 JRE 홈이 아닙니다"

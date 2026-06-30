@@ -9,7 +9,9 @@ apply.partially.resolved.merge.dialog.title:
 apply.patch.all.changes.processed.message.text:
     text: 변경 사항을 저장하고 해결 종료
 apply.patch.partially.resolved.changes.confirmation.message:
-    text: "처리되지 않은 {0, choice, 1#하나의 단락이|2#{0, number}개의 단락이} 남아 있습니다.\n변경 사항을 저장하고 해결을 마칠까요?"
+    text: |-
+        처리되지 않은 {0, choice, 1#하나의 단락이|2#{0, number}개의 단락이} 남아 있습니다.
+        변경 사항을 저장하고 해결을 마칠까요?
 apply.somehow.status.message.all.applied:
     text: 모든 변경 단락(hunk)이 해결됨
 apply.somehow.status.message.already.applied:

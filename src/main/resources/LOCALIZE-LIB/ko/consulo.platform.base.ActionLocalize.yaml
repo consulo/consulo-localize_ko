@@ -83,7 +83,7 @@ action.ChangeSplitOrientation.text:
 action.ChangeTemplateDataLanguage.text:
     text: 템플릿 데이터 언어 변경
 action.ChangeToThisFileTypeAction.description:
-    text: 파일 유형을 ''{0}''(으)로 재정의합니다
+    text: "파일 유형을 ''{0}''(으)로 재정의합니다"
 action.ChangeTypeSignature.description:
     text: 메서드 반환 유형, 필드, 파라미터, 변수 또는 클래스 유형 인수를 변경하고 모든 참조를 수정합니다
 action.ChangeTypeSignature.text:
@@ -915,7 +915,7 @@ action.OverrideFileTypeAction.description:
 action.OverrideFileTypeAction.text:
     text: 파일 유형 재정의
 action.OverrideFileTypeAction.verbose.description:
-    text: 파일 ''{0}''{1,choice,0#|1# (및 {1}개의 추가 파일)}을 다른 파일 유형으로 처리합니다
+    text: "파일 ''{0}''{1,choice,0#|1# (및 {1}개의 추가 파일)}을 다른 파일 유형으로 처리합니다"
 action.OverrideMethods.description:
     text: 현재 클래스에서 기본 클래스 메서드를 재정의합니다
 action.OverrideMethods.text:
@@ -1077,7 +1077,7 @@ action.ReverteOverrideFileTypeAction.description:
 action.ReverteOverrideFileTypeAction.text:
     text: 파일 유형 재정의 되돌리기
 action.ReverteOverrideFileTypeAction.verbose.description:
-    text: 파일 ''{0}''{1,choice,0#|1# (및 {1}개의 추가 파일)}에 대해 "파일 유형 재정의" 작업을 취소하고 이전 파일 유형을 복구합니다
+    text: "파일 ''{0}''{1,choice,0#|1# (및 {1}개의 추가 파일)}에 대해 \"파일 유형 재정의\" 작업을 취소하고 이전 파일 유형을 복구합니다"
 action.RunAnything.description:
     text: 모든 명령어를 실행할 수 있게 합니다
 action.RunAnything.text:
@@ -1513,7 +1513,7 @@ action.WhatsNewAction.description:
 action.WhatsNewAction.text:
     text: 새로운 기능(_N)
 action.editRunConfigurations.description:
-    text: '''실행/디버그 구성 편집'' 대화상자를 엽니다'
+    text: "'실행/디버그 구성 편집' 대화상자를 엽니다"
 action.editRunConfigurations.text:
     text: 구성 편집(_r)…
 action.openAssertEqualsDiff.text:
@@ -1687,7 +1687,7 @@ group.OtherMenu.text:
 group.OverrideFileTypeAction.bundledPlugin:
     text: 번들됨
 group.OverrideFileTypeAction.fromNamedPlugin:
-    text: '''''{0}'''' 플러그인에서 제공'
+    text: "''{0}'' 플러그인에서 제공"
 group.OverrideFileTypeAction.title:
     text: 파일 유형 선택
 group.PairFileActions.text:

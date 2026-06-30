@@ -73,7 +73,7 @@ mark.dependency.illegal.text:
 module.dependencies.cycle.node.text:
     text: 사이클 {0}
 module.dependencies.scope.dialog.module.button:
-    text: 모듈 ''{0}'' 검사(&M)
+    text: "모듈 ''{0}'' 검사(&M)"
 module.dependencies.scope.dialog.project.button:
     text: 전체 프로젝트 검사(&P)
 module.dependencies.scope.dialog.title:
@@ -101,13 +101,13 @@ predefined.scope.problems.name:
 scanning.scope.progress.title:
     text: 범위 스캔 중…
 scope.directory:
-    text: 디렉터리 ''{0}''
+    text: "디렉터리 ''{0}''"
 scope.display.name.allow.scope:
-    text: 범위 ''{1}''에서 범위 ''{0}''의 사용 허용
+    text: "범위 ''{1}''에서 범위 ''{0}''의 사용 허용"
 scope.display.name.deny.scope:
-    text: 범위 ''{1}''에서 범위 ''{0}''의 사용 거부
+    text: "범위 ''{1}''에서 범위 ''{0}''의 사용 거부"
 scope.file:
-    text: 파일 ''{0}''
+    text: "파일 ''{0}''"
 scope.module.list:
     text: '{1, choice, 1#모듈|2#모듈} {0}'
 scope.option.analyze.injected.code:
@@ -117,9 +117,9 @@ scope.option.custom:
 scope.option.include.test.sources:
     text: 테스트 소스 포함(&T)
 scope.option.module:
-    text: 모듈 ''{0}''
+    text: "모듈 ''{0}''"
 scope.option.module.with.mnemonic:
-    text: 모듈 ''{0}''(&M)
+    text: "모듈 ''{0}''(&M)"
 scope.option.uncommitted.files:
     text: 커밋되지 않은 파일(&U)
 scope.option.uncommitted.files.all.changelists.choice:
@@ -127,7 +127,7 @@ scope.option.uncommitted.files.all.changelists.choice:
 scope.option.whole.project:
     text: 전체 프로젝트(&P)
 scope.project:
-    text: 프로젝트 ''{0}''
+    text: "프로젝트 ''{0}''"
 scope.selected.files:
     text: 선택된 파일 {0,choice,1#파일|2#파일}
 scope.virtual.files:
@@ -143,7 +143,7 @@ status.bar.rule.violation.message:
 unknown.node.text:
     text: <알 수 없음>
 update.module.tree.progress.text:
-    text: 모듈 ''{0}'' 사이클 처리 중
+    text: "모듈 ''{0}'' 사이클 처리 중"
 update.module.tree.progress.title:
     text: 모듈 트리 업데이트 중
 usage.view.canceled:

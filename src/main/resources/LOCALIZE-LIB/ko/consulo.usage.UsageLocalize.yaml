@@ -3,6 +3,6 @@ action.close:
 action.rerun:
     text: 다시 실행
 show.usages.advertisement:
-    text: '''''{1}''''에서 검색하려면 {0}을(를) 다시 누르세요'
+    text: "''{1}''에서 검색하려면 {0}을(를) 다시 누르세요"
 usage.target.exception:
     text: 예외
