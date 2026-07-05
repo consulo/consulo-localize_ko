@@ -6,6 +6,12 @@ class.is.subclassed.too.many:
     text: 하위 클래스가 있음
 import.popup.hint.text:
     text: <html><body><a href="action">{0} 가져오기...</a> \&nbsp;{1}? \&nbsp;\&nbsp;<span style="color:#{3}">{2}</span></body></html>
+    names:
+    - kind
+    - name
+    - shortcut
+    - actionName
+    - shortcutColor
 import.popup.multiple:
     text: '{0}? (여러 선택 사항...)'
 inspection.collapse.description:
@@ -25,7 +31,7 @@ iw.status.paused:
 method.implements:
     text: <a href="#javaClass/{1}">{1}</a>의 메서드를 구현함
 method.implements.in:
-    text: <a href="#javaClass/{1}">{1}</a>의 ''{0}'' 메서드를 구현함
+    text: "<a href=\"#javaClass/{1}\">{1}</a>의 ''{0}'' 메서드를 구현함"
 method.is.implemented.header:
     text: 다음에 구현됨 <br>
 method.is.implemented.too.many:
@@ -37,7 +43,7 @@ method.is.overriden.header:
 method.overrides:
     text: <a href="#javaClass/{1}">{1}</a>의 메서드를 재정의함
 method.overrides.in:
-    text: <a href="#javaClass/{1}">{1}</a>의 ''{0}'' 메서드를 재정의함
+    text: "<a href=\"#javaClass/{1}\">{1}</a>의 ''{0}'' 메서드를 재정의함"
 navigation.findUsages.title.super.method:
     text: '{0}의 상위 메서드'
 navigation.title.implementation.method:

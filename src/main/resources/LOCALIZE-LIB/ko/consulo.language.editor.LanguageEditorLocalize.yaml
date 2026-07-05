@@ -1,5 +1,5 @@
 inlay.hints.show.settings:
-    text: 메서드 ''{0}''에 대한 힌트 비활성화
+    text: "메서드 ''{0}''에 대한 힌트 비활성화"
 settings.hints:
     text: 인레이 힌트(Inlay Hints)
 settings.hints.group.annotations:

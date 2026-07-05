@@ -1,5 +1,5 @@
 cannot.resolve.symbol:
-    text: 기호 ''{0}''을(를) 해석할 수 없습니다
+    text: "기호 ''{0}''을(를) 해석할 수 없습니다"
 code.display:
     text: 코드
 default.package.presentation:
@@ -53,9 +53,9 @@ psi.search.scope.project.and.libraries:
 psi.search.scope.test.files:
     text: 프로젝트 테스트 파일
 search.scope.module:
-    text: '''''{0}'''' 모듈'
+    text: "''{0}'' 모듈"
 search.scope.module.runtime:
-    text: '''''{0}'''' 모듈 런타임 범위'
+    text: "''{0}'' 모듈 런타임 범위"
 terms.directory:
     text: 디렉터리
 terms.file:

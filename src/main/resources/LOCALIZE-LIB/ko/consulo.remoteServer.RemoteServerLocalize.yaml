@@ -47,7 +47,7 @@ cloud.status.connection.successful:
 cloud.status.double.click.to.connect:
     text: 서버 노드를 더블 클릭하여 연결
 clouds.configure.empty.selection.string:
-    text: '{0}과의 통합을 구성하려면 ''''+''''를 클릭하세요'
+    text: "{0}과의 통합을 구성하려면 ''+''를 클릭하세요"
 configurable.display.name.clouds:
     text: 클라우드
 create.new.deployment.configuration.for.singleton.type:

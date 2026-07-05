@@ -185,7 +185,7 @@ checkbox.indent.use.same.settings.for.all.file.types:
 checkbox.indent.use.tab.character:
     text: 탭(Tab) 문자 사용
 checkbox.insert.pair.curly.brace:
-    text: 쌍 중괄호 '}' 삽입
+    text: "쌍 중괄호 '}' 삽입"
 checkbox.insert.pair.quote:
     text: 쌍 따옴표 삽입
 checkbox.javadoc.stub.after.slash.star.star:
@@ -203,7 +203,7 @@ checkbox.optimize.imports.on.the.fly:
 checkbox.parentheses.around.method.arguments:
     text: 메서드 인수에 괄호 추가
 checkbox.reformat.on.typing.rbrace:
-    text: '''}'' 입력 시 블록 재포맷'
+    text: "'}' 입력 시 블록 재포맷"
 checkbox.rename.local.variables.preselect:
     text: 이름 변경 리팩터링 시 현재 심볼 이름 미리 선택
 checkbox.right.margin:
@@ -241,13 +241,13 @@ checkbox.smooth.scrolling:
 checkbox.spaces.additive.operators:
     text: 가산 연산자 (+, -)
 checkbox.spaces.after.colon:
-    text: ''':'' 뒤'
+    text: "':' 뒤"
 checkbox.spaces.after.comma:
     text: 쉼표 뒤
 checkbox.spaces.after.question:
-    text: '''?'' 뒤'
+    text: "'?' 뒤"
 checkbox.spaces.after.semicolon:
-    text: '''for'' 세미콜론 뒤'
+    text: "'for' 세미콜론 뒤"
 checkbox.spaces.after.type.cast:
     text: 타입 캐스트 뒤
 checkbox.spaces.annotation.array.initializer.left.brace:
@@ -267,21 +267,21 @@ checkbox.spaces.array.initializer.left.brace:
 checkbox.spaces.assignment.operators:
     text: 할당 연산자 (=, +=, ...)
 checkbox.spaces.before.colon:
-    text: ''':'' 앞'
+    text: "':' 앞"
 checkbox.spaces.before.comma:
     text: 쉼표 앞
 checkbox.spaces.before.question:
-    text: '''?'' 앞'
+    text: "'?' 앞"
 checkbox.spaces.before.semicolon:
-    text: '''for'' 세미콜론 앞'
+    text: "'for' 세미콜론 앞"
 checkbox.spaces.bitwise.operators:
     text: 비트 연산자 (\&, |, ^)
 checkbox.spaces.catch.keyword:
-    text: '''catch'' 키워드'
+    text: "'catch' 키워드"
 checkbox.spaces.catch.left.brace:
-    text: '''catch'' 왼쪽 중괄호'
+    text: "'catch' 왼쪽 중괄호"
 checkbox.spaces.catch.parentheses:
-    text: '''catch'' 괄호'
+    text: "'catch' 괄호"
 checkbox.spaces.checkbox.spaces.empty.method.call.parentheses:
     text: 빈 메서드 호출 괄호
 checkbox.spaces.checkbox.spaces.empty.method.declaration.parentheses:
@@ -293,25 +293,25 @@ checkbox.spaces.checkbox.spaces.method.declaration.parentheses:
 checkbox.spaces.class.left.brace:
     text: 클래스 왼쪽 중괄호
 checkbox.spaces.do.left.brace:
-    text: '''do'' 왼쪽 중괄호'
+    text: "'do' 왼쪽 중괄호"
 checkbox.spaces.else.keyword:
-    text: '''else'' 키워드'
+    text: "'else' 키워드"
 checkbox.spaces.else.left.brace:
-    text: '''else'' 왼쪽 중괄호'
+    text: "'else' 왼쪽 중괄호"
 checkbox.spaces.equality.operators:
     text: 등가 연산자 (==, !=)
 checkbox.spaces.finally.keyword:
-    text: '''finally'' 키워드'
+    text: "'finally' 키워드"
 checkbox.spaces.finally.left.brace:
-    text: '''finally'' 왼쪽 중괄호'
+    text: "'finally' 왼쪽 중괄호"
 checkbox.spaces.for.left.brace:
-    text: '''for'' 왼쪽 중괄호'
+    text: "'for' 왼쪽 중괄호"
 checkbox.spaces.for.parentheses:
-    text: '''for'' 괄호'
+    text: "'for' 괄호"
 checkbox.spaces.if.left.brace:
-    text: '''if'' 왼쪽 중괄호'
+    text: "'if' 왼쪽 중괄호"
 checkbox.spaces.if.parentheses:
-    text: '''if'' 괄호'
+    text: "'if' 괄호"
 checkbox.spaces.logical.operators:
     text: 논리 연산자 (\&\&, ||)
 checkbox.spaces.method.call.parentheses:
@@ -327,25 +327,25 @@ checkbox.spaces.relational.operators:
 checkbox.spaces.shift.operators:
     text: 시프트 연산자 (<<, >>, >>>)
 checkbox.spaces.switch.left.brace:
-    text: '''switch'' 왼쪽 중괄호'
+    text: "'switch' 왼쪽 중괄호"
 checkbox.spaces.switch.parentheses:
-    text: '''switch'' 괄호'
+    text: "'switch' 괄호"
 checkbox.spaces.synchronized.left.brace:
-    text: '''synchronized'' 왼쪽 중괄호'
+    text: "'synchronized' 왼쪽 중괄호"
 checkbox.spaces.synchronized.parentheses:
-    text: '''synchronized'' 괄호'
+    text: "'synchronized' 괄호"
 checkbox.spaces.try.left.brace:
-    text: '''try'' 왼쪽 중괄호'
+    text: "'try' 왼쪽 중괄호"
 checkbox.spaces.try.parentheses:
-    text: '''try'' 괄호'
+    text: "'try' 괄호"
 checkbox.spaces.type.cast.parentheses:
     text: 타입 캐스트 괄호
 checkbox.spaces.while.keyword:
-    text: '''while'' 키워드'
+    text: "'while' 키워드"
 checkbox.spaces.while.left.brace:
-    text: '''while'' 왼쪽 중괄호'
+    text: "'while' 왼쪽 중괄호"
 checkbox.spaces.while.parentheses:
-    text: '''while'' 괄호'
+    text: "'while' 괄호"
 checkbox.spaces.within.array.initializer.braces:
     text: 배열 초기화 중괄호 내
 checkbox.spaces.within.braces:
@@ -481,15 +481,15 @@ date.format.today:
 date.format.yesterday:
     text: 어제
 desktop.entry.icon.missing:
-    text: '''''{0}''''에서 애플리케이션 아이콘을 찾을 수 없습니다.'
+    text: "''{0}''에서 애플리케이션 아이콘을 찾을 수 없습니다."
 desktop.entry.script.missing:
-    text: '''''{0}''''에서 IDE 실행기를 찾을 수 없습니다.'
+    text: "''{0}''에서 IDE 실행기를 찾을 수 없습니다."
 desktop.entry.success:
     text: 이제 {0}을(를) 종료하고 시스템 메뉴에서 시작할 수 있습니다.<br/>   새 메뉴 항목이 표시되지 않으면 로그인 세션을 다시 시작하세요.
 desktop.entry.sudo.prompt:
     text: 데스크톱 엔트리를 생성하려면 비밀번호를 입력하세요.
 desktop.entry.xdg.missing:
-    text: 불행히도 시스템에 'xdg-utils' 패키지가 없는 것 같습니다.
+    text: "불행히도 시스템에 'xdg-utils' 패키지가 없는 것 같습니다."
 dialog.message.caches.will.be.invalidated:
     text: 모든 프로젝트의 캐시 및 색인을 제거합니다. 프로젝트를 다시 열 때 새 캐시가 빌드됩니다.
 dialog.message.command.not.finished.yet:
@@ -533,7 +533,7 @@ editbox.indent.label.indent:
 editbox.indent.tab.size:
     text: '탭 크기:'
 editbox.keep.blanklines.before.rbrace:
-    text: '''}'' 직전:'
+    text: "'}' 직전:"
 editbox.keep.blanklines.in.code:
     text: '코드 내:'
 editbox.keep.blanklines.in.declarations:
@@ -807,7 +807,7 @@ wrapping.align.parenthesised.when.multiline:
 wrapping.align.simple.methods.in.columns:
     text: 열에 맞춰 단순 메서드 정렬
 wrapping.align.throws.keyword:
-    text: '''throws''를 메서드 시작 부분에 정렬'
+    text: "'throws'를 메서드 시작 부분에 정렬"
 wrapping.align.variables.in.columns:
     text: 열에 맞춰 변수 정렬
 wrapping.align.when.multiline:
@@ -841,7 +841,7 @@ wrapping.brace.placement.next.line.shifted:
 wrapping.brace.placement.other:
     text: 기타
 wrapping.catch.on.new.line:
-    text: '''catch''를 새 줄에 표시'
+    text: "'catch'를 새 줄에 표시"
 wrapping.chained.method.call.first.on.new.line:
     text: 첫 번째 호출 줄 바꿈
 wrapping.chained.method.calls:
@@ -851,7 +851,7 @@ wrapping.chop.down.if.long:
 wrapping.classes.annotation:
     text: 클래스 어노테이션
 wrapping.colon.signs.on.next.line:
-    text: ''':'' 기호를 다음 줄에 표시'
+    text: "':' 기호를 다음 줄에 표시"
 wrapping.comments:
     text: 주석
 wrapping.comments.wrap.at.right.margin:
@@ -859,9 +859,9 @@ wrapping.comments.wrap.at.right.margin:
 wrapping.do.not.wrap:
     text: 줄 바꿈 안 함
 wrapping.dowhile.statement:
-    text: '''do ... while()'' 문'
+    text: "'do ... while()' 문"
 wrapping.else.on.new.line:
-    text: '''else''를 새 줄에 표시'
+    text: "'else'를 새 줄에 표시"
 wrapping.enum.constants:
     text: Enum 상수
 wrapping.extends.implements.keyword:
@@ -871,9 +871,9 @@ wrapping.extends.implements.list:
 wrapping.fields.annotation:
     text: 필드 어노테이션
 wrapping.finally.on.new.line:
-    text: '''finally''를 새 줄에 표시'
+    text: "'finally'를 새 줄에 표시"
 wrapping.for.statement:
-    text: '''for()'' 문'
+    text: "'for()' 문"
 wrapping.force.braces:
     text: 중괄호 강제
 wrapping.force.braces.always:
@@ -883,9 +883,9 @@ wrapping.force.braces.do.not.force:
 wrapping.force.braces.when.multiline:
     text: 여러 줄일 때
 wrapping.if.statement:
-    text: '''if()'' 문'
+    text: "'if()' 문"
 wrapping.indent.case.from.switch:
-    text: '''switch''에서 ''case'' 들여쓰기'
+    text: "'switch'에서 'case' 들여쓰기"
 wrapping.keep.comment.at.first.column:
     text: 첫 번째 열의 주석
 wrapping.keep.line.breaks:
@@ -917,23 +917,23 @@ wrapping.methods.annotation:
 wrapping.modifier.list:
     text: 수정자(Modifier) 목록
 wrapping.new.line.after.lbrace:
-    text: '''{'' 뒤에 새 줄 추가'
+    text: "'{' 뒤에 새 줄 추가"
 wrapping.new.line.after.lpar:
-    text: '''('' 뒤에 새 줄 추가'
+    text: "'(' 뒤에 새 줄 추가"
 wrapping.operation.sign.on.next.line:
     text: 연산 기호를 다음 줄에 표시
 wrapping.parameters.annotation:
     text: 매개변수 어노테이션
 wrapping.quest.and.colon.signs.on.next.line:
-    text: '''?'' 및 '':'' 기호를 다음 줄에 표시'
+    text: "'?' 및 ':' 기호를 다음 줄에 표시"
 wrapping.rbrace.on.new.line:
-    text: '''}''를 새 줄에 배치'
+    text: "'}'를 새 줄에 배치"
 wrapping.rpar.on.new.line:
-    text: ''')''를 새 줄에 배치'
+    text: "')'를 새 줄에 배치"
 wrapping.special.else.if.braces.treatment:
-    text: '''else if'' 특수 처리'
+    text: "'else if' 특수 처리"
 wrapping.switch.statement:
-    text: '''switch'' 문'
+    text: "'switch' 문"
 wrapping.take.priority.over.call.chain.wrapping:
     text: 호출 체인 줄 바꿈보다 우선순위 적용
 wrapping.ternary.operation:
@@ -943,11 +943,11 @@ wrapping.throws.keyword:
 wrapping.throws.list:
     text: Throws 목록
 wrapping.try.statement:
-    text: '''try'' 문'
+    text: "'try' 문"
 wrapping.while.on.new.line:
-    text: '''while''을 새 줄에 표시'
+    text: "'while'을 새 줄에 표시"
 wrapping.while.statement:
-    text: '''while()'' 문'
+    text: "'while()' 문"
 wrapping.wrap.always:
     text: 항상 줄 바꿈
 wrapping.wrap.if.long:

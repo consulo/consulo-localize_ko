@@ -11,31 +11,31 @@ index.rebuild.notification.title:
 indexable.files.provider.indexing.additional.dependencies:
     text: 종속성 색인 생성 중
 indexable.files.provider.indexing.fileOrDir.name:
-    text: '''''{0}'''' 색인 생성 중'
+    text: "''{0}'' 색인 생성 중"
 indexable.files.provider.indexing.internal.module.name:
     text: 색인 생성 중
 indexable.files.provider.indexing.library.name:
-    text: '''''{0}'''' 라이브러리 색인 생성 중'
+    text: "''{0}'' 라이브러리 색인 생성 중"
 indexable.files.provider.indexing.module.name:
-    text: '''''{0}'''' 모듈 색인 생성 중'
+    text: "''{0}'' 모듈 색인 생성 중"
 indexable.files.provider.indexing.named.provider:
-    text: '''''{0}'''' 색인 생성 중'
+    text: "''{0}'' 색인 생성 중"
 indexable.files.provider.indexing.sdk:
-    text: '{0} ''''{1}'''' 색인 생성 중'
+    text: "{0} ''{1}'' 색인 생성 중"
 indexable.files.provider.scanning.additional.dependencies:
     text: 종속성 스캔 중
 indexable.files.provider.scanning.fileOrDir.name:
-    text: '''''{0}'''' 스캔 중'
+    text: "''{0}'' 스캔 중"
 indexable.files.provider.scanning.files.contributor:
-    text: '''''{0}'''' 스캔 중'
+    text: "''{0}'' 스캔 중"
 indexable.files.provider.scanning.internal.module.name:
     text: 스캔 중
 indexable.files.provider.scanning.library.name:
-    text: '''''{0}'''' 라이브러리 스캔 중'
+    text: "''{0}'' 라이브러리 스캔 중"
 indexable.files.provider.scanning.module.name:
-    text: '''''{0}'''' 모듈 스캔 중'
+    text: "''{0}'' 모듈 스캔 중"
 indexable.files.provider.scanning.sdk:
-    text: '{0} ''''{1}'''' 스캔 중'
+    text: "{0} ''{1}'' 스캔 중"
 indexes.preparing.to.shutdown.message:
     text: 종료를 위해 색인 준비 중…
 indexes.reloading:
@@ -61,9 +61,9 @@ psi.search.scope.project.and.libraries:
 removing.indexable.set.project.handler:
     text: 프로젝트 파일에 대한 색인 지우는 중
 search.scope.module:
-    text: '''''{0}'''' 모듈'
+    text: "''{0}'' 모듈"
 search.scope.module.runtime:
-    text: '''''{0}'''' 모듈 런타임 범위'
+    text: "''{0}'' 모듈 런타임 범위"
 terms.directory:
     text: 디렉터리
 terms.file:
