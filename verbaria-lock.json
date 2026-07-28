@@ -3,15 +3,15 @@
   "project" : "consulo**",
   "projectVersion" : "master",
   "sourceLocale" : "en-US",
-  "generatedAt" : "2026-06-30T09:40:38.394234746Z",
+  "generatedAt" : "2026-07-06T10:27:01.829637981Z",
   "documents" : {
     "consulo-apache-ant/consulo.apache.ant.impl.ApacheAntImplLocalize" : {
       "source" : {
-        "sig" : "869c6487b6106b8a7d21091c18795722"
+        "sig" : "e4254a90f28816e834cd08f6617aca40"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "1e4318fc84c42bf80de7007cc499e9a4"
+          "sig" : "790d9164035d1e82b7f7cc9137a12abb"
         },
         "ko" : {
           "sig" : "4a7a6871aea1437a8b171ae832d4c630"
@@ -59,11 +59,11 @@
     },
     "consulo-git/consulo.git.GitLocalize" : {
       "source" : {
-        "sig" : "f338ec78199638de5f5242469d097f7e"
+        "sig" : "af084ccbb15b6a786d3cbe0c1a08f08b"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "ce3cf8cc84fd8cffbdb8f0d7e3c7fc0c"
+          "sig" : "4079f8dfcfa2bd3d68fc6047e92409ae"
         },
         "ko" : {
           "sig" : "f0e3d2928a1fe4b735d3276ae28cb73b"
@@ -98,11 +98,11 @@
     },
     "consulo-jakarta-web/consulo.jakarta.JakartaLocalize" : {
       "source" : {
-        "sig" : "a9f948b529554037c1e0678a8f51e578"
+        "sig" : "664352c902373909bdfd457238f6b6f2"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "1e1f1a94584504f529926b502bd8f8b7"
+          "sig" : "4376d46240884c2aa4050e5fead5bce5"
         },
         "ko" : {
           "sig" : "8a65ac61900aa0c210d82419bfa2937c"
@@ -280,11 +280,11 @@
     },
     "consulo-python/consulo.python.impl.PyLocalize" : {
       "source" : {
-        "sig" : "680638f6239743439aca0e67a5a4d8a5"
+        "sig" : "7a6602312b1df54bc7aa4ec3cdf477fa"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "1efb973378e03aed52d51fbf88c1097a"
+          "sig" : "b3710dd27f2dd5ae5b6fb229d83270fe"
         },
         "ko" : {
           "sig" : "13d91ce48b00eca4ac1e1a683e8e8100"
@@ -306,11 +306,11 @@
     },
     "consulo-xml/consulo.xml.XmlErrorLocalize" : {
       "source" : {
-        "sig" : "cd1261fc97f65f1489fa9d0e97d179c9"
+        "sig" : "0ed1e2aae93c6f8aaa94373ce4ee8990"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "f65d9ed50672356f85588c8f35e138d6"
+          "sig" : "ff303c8ed4ea7df98c47200e4b1aedf8"
         },
         "ko" : {
           "sig" : "b2a24edbc7a5ae386797aeba59441c0f"
@@ -319,11 +319,11 @@
     },
     "consulo-xml/consulo.xml.XmlLocalize" : {
       "source" : {
-        "sig" : "4f1a4f3457dcea431fb255280db5fce4"
+        "sig" : "ec1defa43e12136d7b173591e2d46a5c"
       },
       "translations" : {
         "en-US" : {
-          "sig" : "036d11ed18f34d2a0adfb1d32feb37e5"
+          "sig" : "ab2fdf7d1cd4deff2715624aca8a5258"
         },
         "ko" : {
           "sig" : "d2b9662e1f15be610defa791b7bc1490"
